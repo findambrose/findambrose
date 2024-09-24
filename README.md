@@ -7,7 +7,8 @@
 
 
 <div>
-  <img height="170", align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findambrose&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+  <img height="170" width="100%" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findambrose&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+  <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=findambrose&theme=light" alt="Ambrose" />
 </div>
 <div>
 
