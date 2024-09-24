@@ -8,7 +8,6 @@
 
 <div>
   <img height="170", align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=findambrose&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=findambrose&theme=light" alt="Ambrose" />
 </div>
 <div>
 
