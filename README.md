@@ -5,7 +5,6 @@
     <img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/___ambrose?style=for-the-badge&logo=twitter&color=00ACEE">
   </a>
 
-![](https://komarev.com/ghpvc/?username=findambrose&label=🪟)
 
 <div>
   <img height="170", align="left" src="https://github-readme-stats.vercel.app/api?username=findambrose&show_icons=true&theme=radical" />
